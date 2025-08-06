@@ -3,15 +3,15 @@ Code base for course on big data and geoai for geohazards mapping and modelling.
 
 To load this repository in Google colab click the following link:
 ## BigData Part:
-**Excercise 1** <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/bigdata/DownloadImage.ipynb">
+**Excercise 1** <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/bigdata-excercises/DownloadImage.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Excercise 2** <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/bigdata/LandslideMapping.ipynb">
+**Excercise 2** <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/bigdata-excercises/LandslideMapping.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Excercise 3** <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/bigdata/ThresholdPlayground.ipynb">
+**Excercise 3** <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/bigdata-excercises/ThresholdPlayground.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
