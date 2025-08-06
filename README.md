@@ -27,6 +27,7 @@ To load this repository in Google colab click the following link:
 **Excercise 3** <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/geoai-excercises/lec3/DataPreparationMapping.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 **Excercise 4** <a target="_blank" href="https://colab.research.google.com/github/ashokdahal/bigdata-geoai/blob/main/geoai-excercises/lec3/CNN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
